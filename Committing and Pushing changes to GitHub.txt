@@ -1,0 +1,10 @@
+cd "test_repository"
+git add .
+git status -s
+git commit -m "comment describing changes"
+git push origin master
+
+
+other git resources:
+http://burnedpixel.com/blog/setting-up-git-and-github-on-your-mac/
+http://www.r-bloggers.com/data-on-github-the-easy-way-to-make-your-data-available/
